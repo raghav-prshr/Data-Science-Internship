@@ -179,3 +179,19 @@ These outputs are stored inside the **outputs/** directory.
 - Real-time Fraud Detection API
 
 ---
+
+## Dataset
+
+The dataset is too large to be stored on GitHub.
+
+Download it from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place
+
+creditcard.csv
+
+inside
+
+creditcard_frauddetection/data/
